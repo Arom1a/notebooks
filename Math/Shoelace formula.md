@@ -1,0 +1,1 @@
+https://www.wikiwand.com/en/Shoelace_formula

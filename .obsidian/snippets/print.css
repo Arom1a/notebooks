@@ -1,0 +1,25 @@
+@media print {
+  /* body {
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    background: none;
+  } */
+
+  h1 {
+    text-align: center;
+  }
+
+  p {
+    font-size: 12pt;
+    line-height: 2;
+  }
+
+  /* h2 {
+    page-break-before: always;
+  }
+
+  h2:first-of-type {
+    page-break-before: avoid;
+  } */
+}
