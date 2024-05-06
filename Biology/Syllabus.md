@@ -1,6 +1,8 @@
 ---
 number headings: auto, first-level 2, max 6, 1.1, start-at 0
 ---
+Prerequests:
+By attending this course, it is assumed that you have learnt statistics, or you will be painful learning this course. 
 
 ## 0 [[Scientific Methods (unfin]]
 ## 1 [[Chemistry of Life]]

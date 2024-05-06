@@ -7,3 +7,5 @@
 |           $e^x=\displaystyle\sum_{k=0}^{\infty}{\frac{x^k}{k!}}$           |     All real number     |
 | $\sin{x}=\displaystyle\sum_{k=0}^{\infty}{(-1)^k\frac{x^{2k+1}}{(2k+1)!}}$ |     All real number     |
 |   $\cos{x}=\displaystyle\sum_{k=0}^{\infty}{(-1)^k\frac{x^{2k}}{(2k)!}}$   |     All real number     |
+
+Maclaurin series is Taylor series with a = 0. 

@@ -8,20 +8,23 @@
 
 ---
 
+## 1 Water ($\ce{H_2O}$ molecules)
+
 Adhesive: the attraction between water molecules.
 Cohesive: the attraction between water and other molecules of different elements.
+
 Due to adhesion force, water can climb up through thin tubes which is known as the **Capillary Action**.
 
 ---
 
 Macromolecules (Polymers)
 Protein, Carbohydrate, Lipid, Nucleic Acid
-Many monomers
+Many monomer
 
 ---
 
-## 1 Large Biological Molecules
-### 1.1 Syntheses and Breakdowns of polymers
+## 2 Large Biological Molecules
+### 2.1 Syntheses and Breakdowns of polymers
 - **Condensation reaction**:
     Forming polymers. (synthesizing monomers)
     (A special case is also called **dehydration reaction** if water if formed and lost during the process. )
@@ -29,13 +32,13 @@ Many monomers
     Forming monomers. (breaking down polymers)
     Water is added.
 
-### 1.2 Carbohydrates
+### 2.2 Carbohydrates
 Carbohydrates are composed of $\ce{C}$, $\ce{H}$, and $\ce{O}$
 Formula: $\ce{(CH_2O)_X}$
 Function: fast energy, energy storage, row materials, structural materials
 
-#### 1.2.1 Sugars
-##### 1.2.1.1 **Monosaccharides**
+#### 2.2.1 Sugars
+##### 2.2.1.1 **Monosaccharides**
 One monomer sugars
 - Glucose (6C hexose) (Glucose, Galactose, Fructose are isomers)
     $\alpha$ glucose: for energy storage purpose, used to form starch
@@ -43,7 +46,7 @@ One monomer sugars
 - Ribose (5C pentose)
 - Glyceraldehyde (3C triose)
 
-##### 1.2.1.2 **Disaccharides**
+##### 2.2.1.2 **Disaccharides**
 Two monomers sugars
 - Maltose
     Maltose is formed with 2 glucoses dehydration synthesizing together
@@ -52,7 +55,7 @@ Two monomers sugars
 - Lactose
     %% Found in milk %%
 
-##### 1.2.1.3 **Polysaccharides**
+##### 2.2.1.3 **Polysaccharides**
 Large polymers
 Function:
 1. Energy Storage
@@ -63,7 +66,7 @@ Function:
 2. Structure
     - Cellulose (plant cell wall)
 
-### 1.3 Lipids
+### 2.3 Lipids
 Lipids are composed of $\ce{C}$, $\ce{H}$, and $\ce{O}$
 Function: long term energy storage, structure, endocrine
 - Triglyceride (fat): glycerol + 3 fatty acids
@@ -76,7 +79,7 @@ Function: long term energy storage, structure, endocrine
     Function: sex hormones
 
 
-### 1.4 Proteins
+### 2.4 Proteins
 Functions: involved in almost everything - enzymes, structure, carriers & transport, cell communication, defense, movement, storage
 
 Polymer: polypeptide
@@ -104,7 +107,7 @@ Protein structures:
 
 If proteins are exposed into something outside its ideal environment, for example too cold or too high or too acidic or too basic, the proteins will be denatured which disrupt their shape.
 
-### 1.5 Nucleic acids
+### 2.5 Nucleic acids
 DNA: double helix (deoxyribonucleic acid)
 contains thymine and is constructed with A-T G-C.
 Covalent bonds between deoxyribose backbones. 

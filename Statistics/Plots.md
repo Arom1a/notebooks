@@ -17,3 +17,6 @@ Five pieces of information are usually included in the box plots:
 	The maximum is the largest number within the range $[Q_1 - 1.5\text{IQR}, Q_3 + 1.5\text{IQR}]$. 
 
 Further more, there may exits outliers on the box plot. Outliers are the value outside of the range $[Q_1 - 1.5\text{IQR}, Q_3 + 1.5\text{IQR}]$. 
+
+## 2 Five-Number Summary
+minimum, 1st quartile, median, 3rd quartile, maximum

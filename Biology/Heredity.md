@@ -1,4 +1,3 @@
-
 Homozygous
 Heterozygous
 
@@ -25,3 +24,5 @@ Huntington's disease
 	- Down syndrome
 	- Turner's syndrome
 	- Klinefelter's syndrome
+### 1.5 Mitochondrial Disease
+Since the genetic materials of the mitochondria and chloroplasts are transformed form the mother, the mitochondrial disease are inherited maternally. 
