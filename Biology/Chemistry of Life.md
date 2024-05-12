@@ -3,8 +3,8 @@
 | :----------: | :---------------: | :----------: | ------------------------ | --- |
 | Carbohydrate |  Monosaccharide   |    Starch    | Granules in Chloroplasts |     |
 | Nucleic acid |    Nucleotide     | Double Helix | Chromosome               |     |
-|    Lipid     |    Amino Acid     | Polypeptide  | Intermediate Filaments   |     |
-|   Protein    |    Fatty Acid     | Triglyceride | Adipose Cells            |     |
+|   Protein    |    Amino Acid     | Polypeptide  | Intermediate Filaments   |     |
+|    Lipid     |    Fatty Acid     | Triglyceride | Adipose Cells            |     |
 
 ---
 
@@ -38,7 +38,7 @@ Formula: $\ce{(CH_2O)_X}$
 Function: fast energy, energy storage, row materials, structural materials
 
 #### 2.2.1 Sugars
-##### 2.2.1.1 **Monosaccharides**
+##### 2.2.1.1 Monosaccharides
 One monomer sugars
 - Glucose (6C hexose) (Glucose, Galactose, Fructose are isomers)
     $\alpha$ glucose: for energy storage purpose, used to form starch
@@ -46,7 +46,7 @@ One monomer sugars
 - Ribose (5C pentose)
 - Glyceraldehyde (3C triose)
 
-##### 2.2.1.2 **Disaccharides**
+##### 2.2.1.2 Disaccharides
 Two monomers sugars
 - Maltose
     Maltose is formed with 2 glucoses dehydration synthesizing together
@@ -55,7 +55,7 @@ Two monomers sugars
 - Lactose
     %% Found in milk %%
 
-##### 2.2.1.3 **Polysaccharides**
+##### 2.2.1.3 Polysaccharides
 Large polymers
 Function:
 1. Energy Storage
@@ -85,7 +85,7 @@ Functions: involved in almost everything - enzymes, structure, carriers & transp
 Polymer: polypeptide
 Proteins are polypeptide chains.
 Monomer: amino acids
-Each amino acid has a carboxyl group (COOH-), an amino group (NH2), and a R group (side chain).
+Each amino acid has a carboxyl group ($\ce{COOH^-}$), an amino group ($\ce{NH_2}$), and an R-group (side chain).
 
 Protein structures:
 1. Primary Structure
@@ -119,7 +119,6 @@ contains uracil and is constructed with A-U G-C.
 
 ---
 
-Nitrogen is found both in protein and DNA. 
-Sulfur in protein, phosphorus in DNA
-
-
+Nitrogen is found in the amino groups of proteins and the nitrogen bases of DNAs. 
+Phosphorus in phosphate groups of DNAs. 
+Sulfur in some R-groups of proteins. 

@@ -33,6 +33,7 @@ Heterozygote: $2pq$
 Recessive homozygote: $q^2$
 
 ## 6 Speciation
+![[speciation.png]]
 ### 6.1 Allopatric
 Geographical isolation
 

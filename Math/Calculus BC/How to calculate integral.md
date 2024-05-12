@@ -14,7 +14,7 @@ $\int{x^{-1}\,dx}=\ln{{\left|x\right|}}+c$
 $\int{e^{x}\,dx}=e^{x}+c$
 $\int{a^{x}\,dx}=\frac{a^{x}}{\ln{a}}+c$
 
-$\frac{d}{dt}\int^{h(x)}_{g(x)}{f'(t)}\,dt=\frac{d}{dt}\int^{h(x)}_{0}{f'(t)\,dt}-\frac{d}{dt}\int^{g(x)}_{0}{f'(t)\,dt}=h'(x)\times f(h(x))-g'\times f(g(x))$
+$$\frac{d}{dt}\int^{h(x)}_{g(x)}{f(t)}\,dt=\frac{d}{dt}\int^{h(x)}_{0}{f(t)\,dt}-\frac{d}{dt}\int^{g(x)}_{0}{f'(t)\,dt}=h'(x)\times f(h(x))-g'\times f(g(x))$$
 
 **Integration by substitution (u-Substitution):**
 Let $u=g(x)$, then $du=g'(x)\times dx$

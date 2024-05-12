@@ -18,8 +18,8 @@ plasma membrane, cytoplasm, chromosome - DNA, ribosome
 | Plasma Membrane                                             | Lysosome             | Vacuoles            |
 | Cytoplasm                                                   | Centrosome           | Chloroplast         |
 | Nucleus                                                     | Microvilli           | Cell Wall           |
-| Ribosomes                                                   |                      | Peroxisome          |
-| Endoplasmic Reticulum (ER) <br> - Rough ER <br> - Smooth ER |                      | Plasmodesmata       |
+| Ribosomes                                                   |                      | Plasmodesmata       |
+| Endoplasmic Reticulum (ER) <br> - Rough ER <br> - Smooth ER |                      |                     |
 | Golgi Apparatus                                             |                      |                     |
 | Mitochondrion                                               |                      |                     |
 | Cytoskeleton                                                |                      |                     |
@@ -64,6 +64,9 @@ Cell that needs more energy has more mitochondria.
 The cytoskeleton is the structure.
 Cytoskeleton includes thread-like microfilaments (which are made of protein), and thin hollow tubes microtubules.
 
+#### 2.1.9 Peroxisome
+Toxic substances can be broken down by peroxisomes. Peroxisomes play the role of detoxing. 
+
 ### 2.2 Organelles of animal cells
 #### 2.2.1 Lysosome
 Lysosomes are the garbage collectors.
@@ -73,6 +76,9 @@ They are filled with enzymes that break down cellular debris.
 The centrosome is made up of two perpendicular centrioles, a daughter centriole, and a mother centriole, linked together by interconnecting fibres.
 Its main function is to organize the microtubules and provide a structure to the cell.
 It also pulls the chromatids apart during cell division.
+
+#### 2.2.3 Microvilli
+Microvilli are mostly found in small intestine, on the surface of egg cells, and on white blood cells. It expands the surface area of the cell and making them able to absorb more nutrient. 
 
 ### 2.3 Organelles of plant cells
 #### 2.3.1 Vacuoles
@@ -88,9 +94,8 @@ More details in chapter [[Cellular Energetics]].
 Plant cells also have a cell wall outside of their cell membranes that shape, support, and protect the plant cell.
 Animal cells never have a cell wall.
 
-#### 2.3.4 Perosisome
-
-#### 2.3.5 Plasmodesmata
+#### 2.3.4 Plasmodesmata
+Plasmodesmata are small channels that directly connect cytoplasm of neighboring plant cells for cellular communications between plant cells. 
 
 ## 3 Structures of Prokaryotic Cells
 Cell wall, Cell membrane, Nucleoid, Ribosomes, Cytoplasm,

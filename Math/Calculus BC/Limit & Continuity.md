@@ -22,4 +22,4 @@ If $f$ is a continuous function whose domain contains the interval $[a,b]$, them
 
 ## 4 The Squeeze Theorem
 If $f(x)\leq g(x)\leq h(x)$ for all number, and at some point $x=k$ we have $f(x)=h(x)$, then $\lim{g(x)}$ must also be equal to them.
-@import "pictures\squeeze_theorem.png"
+![[squeeze_theorem.png]]
