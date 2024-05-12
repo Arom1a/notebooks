@@ -31,16 +31,31 @@ In mitochondrial matrix
 Alcoholic Fermentation or Lactic Acid Fermentation will occur %%
 
 ## 2 Photosynthesis
+In thylakoid
+
 ### 2.1 Light-Dependent Reaction
 
 #### 2.1.1 Photosystem II
+Light (680 nm) and $\ce{H_2O}$ in
+
 Produce $\ce{O^2}$
-Produce electrons for PSI
+Produce electrons for PS I
 
 #### 2.1.2 Electron Transportation Chain
+Electrons flows by
+
+Produce ATP
 
 #### 2.1.3 Photosystem I
+Light (700 nm) and electron (from PS II) in
 
+Produce NADPH for Calvin Cycle
 
 ### 2.2 Light-Independent Reaction (Calvin Cycle)
-ATP Synthase
+In stroma
+
+CO2, ATP, NADPH in
+
+Produce carbon, glucose
+
+Carbon fixation

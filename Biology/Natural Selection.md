@@ -18,10 +18,7 @@ Homologous structures: share a similar embryonic structure
 Vestigial structures: have most of their original function
 Convergent structures: share similar function but can not be attributed to a common ancestor
 
-## 4 Population Evolution
-
-
-## 5 Mechanisms of Evolution
+## 4 Mechanisms of Evolution
 Mutation
 Sexual repoduction (during meiosis)
 Natural selection
@@ -30,20 +27,31 @@ Genetic drift
     - Founder effect
 Gene flow
 
-## 6 Hardy-Weinberg Equilibrium
+## 5 Hardy-Weinberg Equilibrium
 Dominant homozygote: $p^2$
 Heterozygote: $2pq$
 Recessive homozygote: $q^2$
 
-## 7 Reproduction Barriers
-### 7.1 Pre-reproduction barriers
-- Habitat isolation / Ecological isolation
-- Temporal isolation
-- Behavioral isolation
-- Mechanical isolation
-- Gametic isolation
+## 6 Speciation
+### 6.1 Allopatric
+Geographical isolation
 
-### 7.2 Post-reproduction barriers
-- Reduced hybrid viability
+allo- means other
 
+### 6.2 Peripatric
+### 6.3 Parapatric
 
+### 6.4 Sympatric
+sym- means same
+
+Because of **reproductive isolation**:
+#### 6.4.1 Prezygotic
+Habitate / Ecological isolation
+Terporal isolation
+Behavioral isolation
+Gametic isolation
+Mechanical isolation
+
+#### 6.4.2 Postzygotic
+Unable to reproduce
+mostly due to hybrid

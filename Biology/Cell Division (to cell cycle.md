@@ -1,21 +1,21 @@
 ## 1 Mitosis
 Mitosis is done with PMAT: prophase, metaphase, anaphase, and telophase. 
 ### 1.1 Prophase
-Chromatin become condensed into chromosomes
+Chromatin **become condensed** into chromosomes
 (46 chromosomes in normal human cells, 92 chromatids after the replication, 23 in sex cells)
-Centrosomes move to the two pole of the cell and microtubules extends from the centrosomes
+Centrosomes **move to the two pole** of the cell and microtubules extends from the centrosomes
 mitotic spindle begins to form
-Nucleolus disappears and the nuclear envelope breaks down
+Nucleolus **disappears** and the nuclear envelope **breaks down**
 
 ### 1.2 Metaphase
-Chromosomes align at the metaphase plate at the Middle of the cell. 
+Chromosomes **align** at the metaphase plate at the **Middle** of the cell. 
 
 ### 1.3 Anaphase
-The chromosomes is separated and moved Away from others by the spindles. 
+The chromosomes is **separated** and moved **Away** from others by **the spindles**. 
 
 ### 1.4 Telophase
-Two nuclei forms
-Cell performs cleavage and by cytokinesis
+**Two nuclei forms**
+Cell performs **cleavage** and by **cytokinesis**
 
 ## 2 Meiosis
 Also called reduction division. 

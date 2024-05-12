@@ -18,8 +18,8 @@ plasma membrane, cytoplasm, chromosome - DNA, ribosome
 | Plasma Membrane                                             | Lysosome             | Vacuoles            |
 | Cytoplasm                                                   | Centrosome           | Chloroplast         |
 | Nucleus                                                     | Microvilli           | Cell Wall           |
-| Ribosomes                                                   |                      |                     |
-| Endoplasmic Reticulum (ER) <br> - Rough ER <br> - Smooth ER |                      |                     |
+| Ribosomes                                                   |                      | Peroxisome          |
+| Endoplasmic Reticulum (ER) <br> - Rough ER <br> - Smooth ER |                      | Plasmodesmata       |
 | Golgi Apparatus                                             |                      |                     |
 | Mitochondrion                                               |                      |                     |
 | Cytoskeleton                                                |                      |                     |
@@ -87,6 +87,10 @@ More details in chapter [[Cellular Energetics]].
 #### 2.3.3 Cell wall
 Plant cells also have a cell wall outside of their cell membranes that shape, support, and protect the plant cell.
 Animal cells never have a cell wall.
+
+#### 2.3.4 Perosisome
+
+#### 2.3.5 Plasmodesmata
 
 ## 3 Structures of Prokaryotic Cells
 Cell wall, Cell membrane, Nucleoid, Ribosomes, Cytoplasm,

@@ -41,3 +41,7 @@ Man got to tell himself he understand.
 ## 9 Apr. 26th, 2024
 雨还在下，我还在想你。
 > I forgot
+
+## 10 May. 12th, 2024
+永远，你是我的，我也是你的。没有人抢得走你，也没有人抢得走我。
+> From Twitter

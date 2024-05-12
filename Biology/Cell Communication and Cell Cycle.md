@@ -12,6 +12,15 @@ controls traffic in and out of the cell
 
 ## 3 Membrane Transportation
 ### 3.1 Active Transportation
+Exocytosis, endocytosis, sodium-potassium pump
+
+Primary active transport:
+related to the breakdown of the ATP
+(sodium-potassium pump)
+
+Secondary:
+require additional energy
+
 Channel proteins
 Aquaporins
 Sodium-potassium pump
@@ -24,5 +33,8 @@ Pinocytosis
 Receptor-mediated endocytosis
 
 ### 3.2 Passive Transportation
+Small and non-polar to pass phosphorus bilayer
+
+Simple diffusion
 Osmosis
-Hypertonic (high) -> Hypotonic (low)
+Facilitated diffusion

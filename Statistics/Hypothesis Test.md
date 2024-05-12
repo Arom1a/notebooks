@@ -18,7 +18,8 @@ The alternative hypothesis represents an alternative claim under consideration a
 
 *Failing to reject the null hypothesis does not mean the null hypothesis is true.*
 
-A **Type 1** error is rejecting the null hypothesis while it is actually true. A **Type 2** error is failing to reject the null hypothesis while the alternative is true. 
+A **Type 1** error is rejecting the null hypothesis while it is actually true. 
+A **Type 2** error is failing to reject the null hypothesis while the alternative is true. 
 
 ---
 

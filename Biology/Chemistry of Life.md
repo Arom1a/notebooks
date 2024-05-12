@@ -119,7 +119,6 @@ contains uracil and is constructed with A-U G-C.
 
 ---
 
-硫在蛋白质、磷在DNA
 Nitrogen is found both in protein and DNA. 
 Sulfur in protein, phosphorus in DNA
 
