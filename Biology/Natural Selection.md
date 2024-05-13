@@ -1,4 +1,5 @@
 ## 1 Natural selection
+conditions should satisfy:
 - have over-population
 - heritable variation
 - competition (for food, mates, nesting sites, escape predators)
@@ -35,24 +36,30 @@ Recessive homozygote: $q^2$
 ## 6 Speciation
 ![[speciation.png]]
 ### 6.1 Allopatric
-Geographical isolation
-
 allo- means other
 
+Speciate due to **geographical isolation**
+
 ### 6.2 Peripatric
+peir- means near
+
+Speciate due to an **isolated population**
+
 ### 6.3 Parapatric
+para- means beside
+
+Speciate due to a **continuous-distributed population**
 
 ### 6.4 Sympatric
 sym- means same
 
-Because of **reproductive isolation**:
+Speciate due to **reproductive isolation**:
 #### 6.4.1 Prezygotic
-Habitate / Ecological isolation
-Terporal isolation
-Behavioral isolation
-Gametic isolation
-Mechanical isolation
+- Habitate / Ecological isolation
+- Terporal isolation
+- Behavioral isolation
+- Gametic isolation
+- Mechanical isolation
 
 #### 6.4.2 Postzygotic
-Unable to reproduce
-mostly due to hybrid
+Unable to reproduce, mostly due to hybrid

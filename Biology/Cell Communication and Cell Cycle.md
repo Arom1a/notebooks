@@ -14,6 +14,8 @@ controls traffic in and out of the cell
 ### 3.1 Active Transportation
 Exocytosis, endocytosis, sodium-potassium pump
 
+Against the concentration gradient
+
 Primary active transport:
 related to the breakdown of the ATP
 (sodium-potassium pump)

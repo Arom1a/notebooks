@@ -14,6 +14,8 @@ Polygenic inheritance
 - Phenylketonuria
 - Cystic fibrosis
 ### 1.2 Sex-linked Recessive
+x-linked recessive means all male offspring will have the disease
+
 - Duchenne muscular dystrophy
 - Color blindness
 - Hemophilia
