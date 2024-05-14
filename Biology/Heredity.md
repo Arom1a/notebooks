@@ -14,11 +14,13 @@ Polygenic inheritance
 - Phenylketonuria
 - Cystic fibrosis
 ### 1.2 Sex-linked Recessive
-x-linked recessive means all male offspring will have the disease
+x-linked dominant means if father is infected , all offspring will be infected. 
+x-linked recessive means if mother is infected, all male offspring will have the disease
 
 - Duchenne muscular dystrophy
 - Color blindness
 - Hemophilia
+
 ### 1.3 Dominant
 Huntington's disease
 ### 1.4 Chromosome Disorder

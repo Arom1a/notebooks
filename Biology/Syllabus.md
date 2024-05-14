@@ -10,6 +10,6 @@ By attending this course, it is assumed that you have learnt statistics, or you 
 ## 3 [[Cellular Energetics]]
 ## 4 [[Cell Communication and Cell Cycle]]
 ## 5 [[Heredity]]
-## 6 Gene Expression and Regulation
+## 6 [[Gene Expression and Regulation]]
 ## 7 [[Natural Selection]]
 ## 8 [[Ecology]]

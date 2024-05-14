@@ -45,7 +45,7 @@ It's too much when naturally...
 Words like these pour right out
 
 Where complication hidin' got too hard to find
-It coulda been all around hot ehos
+It coulda been all around hot ethos
 Can't forget all you would see and end up walkin' just forgivin' on
 When the affection suddenly behold
 A risin' feelin' of cloudin' days in madness, now we've got
@@ -54,7 +54,7 @@ No more left to recover
 "But could our knot climb up and keep on"
 But could our knot climb up and keep on
 Such unkind heart, ends creep on
-Saw you're not up to go o, we know where all that could wind up
+Saw you're not up to go on, we know where all that could wind up
 It got hard, who am I to kid on
 "You came to me"
 The small words used are pouring out I know the words
