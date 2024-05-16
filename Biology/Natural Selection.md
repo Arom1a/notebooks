@@ -20,10 +20,9 @@ Traits are human determined/desired
     Analogous structures show that similar selective pressures can produce similar adaptations
 5. Biochemical / Metabolic evidence
 
-Analogous structures: share a similar function
-Homologous structures: share a similar embryonic structure
-Vestigial structures: have most of their original function
-Convergent structures: share similar function but can not be attributed to a common ancestor
+Homologous structures: share a similar embryonic structure and share a common ancestor but have completely different functions (due to divergent evolution)
+Analogous structures: share a similar function but not necessarily in structure and do not derive from a common ancestral feature (due to convergent evolution)
+Vestigial structures: have lost most of their original function
 
 ## 4 Mechanisms of Evolution
 Mutation
@@ -31,11 +30,11 @@ Migration
 Sexual repoduction (during meiosis)
 Natural selection
 Genetic drift
-    - Bottleneck effect
-    - Founder effect
+    - Bottleneck effect: a sharp reduction in the size of a population due to environmental events
+    - Founder effect: occurs when a new population is established by a very small number of individuals from a larger population
 Gene flow
 Nonrandom mating
-Natural selection1
+Natural selection
 
 ## 5 Hardy-Weinberg Equilibrium
 A mathematical model to estimate genotype frequency of a population that is in genetic equillibrium
@@ -71,7 +70,8 @@ Speciate due to a **continuous-distributed population**
 ### 6.4 Sympatric
 sym- means same
 
-Speciate due to **reproductive isolation**:
+Speciate due to **reproductive isolation**
+
 #### 6.4.1 Prezygotic
 - Habitate / Ecological isolation
 - Terporal isolation

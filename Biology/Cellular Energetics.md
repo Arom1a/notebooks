@@ -1,4 +1,3 @@
-Phosphorylate
 ## 1 Respiration
 ### 1.1 Glycolysis
 1. Split sugars
@@ -7,7 +6,7 @@ Phosphorylate
     2 ATP for every 1 glucose
 4. Occurs in cytosol
 
-glucose --> 2 pyruvate + 2 NADH + 2 ATP
+$$\ce{glucose} \to \ce{2 pyruvate} + \ce{2 NADH} + \ce{2 ATP} + \ce{2 H_2O}$$
 
 ### 1.2 Pyruvate Oxidation
 #### 1.2.1 Mitochondria
@@ -17,18 +16,30 @@ outer membrane
 matrix
 cristae
 intermembrane space
-2 pyruvate --> 2 acetyl CoA + 2 NADH
+
+$$\ce{2 pyruvate} \to \ce{2 acetyl CoA} + \ce{2 CO_2} + \ce{2 NADH}$$
 
 ### 1.3 Kreb's Cycle
+Also called critic acid cycle
 In mitochondrial matrix
-2 acetyle CoA + 4 C --> 4 CO_2 + 6 NAOH + 2 FADH + 2 ATP
 
-### 1.4 Oxidative Phosphorylation
+$$\ce{2 acetyle CoA} + \ce{2 H_2O} \to \ce{4 CO_2} + \ce{6 NADH} + \ce{2 FADH_2} + \ce{2 ATP}$$
 
-%% Glycolysis -> Pyruvate Oxidation -> Krebs Cycle -> Oxidative Phosphorylation %%
+### 1.4 Aerobic Reaction
+#### 1.4.1 Electron Transport Chain
+Also called oxidative phosphorylation
+Take in $\ce{NADH}$, $\ce{FADH_2}$, and **$\ce{O_2}$** to produce $\ce{ATP}$ the most efficiently. 
 
-%% In the absence of Oxygen, 
-Alcoholic Fermentation or Lactic Acid Fermentation will occur %%
+### 1.5 Anaerobic Reaction
+#### 1.5.1 Alcoholic Fermentation
+$$\ce{2 pyruvate} \to \ce{2 acetaldehyde} \to \ce{ethanol}$$
+
+eg: yeast produces the ethanol found in alcoholic drinks
+
+#### 1.5.2 Lactic Acid Fermentation
+$$\ce{2 pyruvate} \to \ce{2 lactate}$$
+
+eg: bacteria that make yogurt carry out lactic acid fermentation, muscle carry out lactic acid fermentation when there is no enough oxygen for aerobic respiration and this is the cause of the soreness
 
 ## 2 Photosynthesis
 In thylakoid
