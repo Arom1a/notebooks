@@ -5,9 +5,6 @@ Two data lines:
 SCL: serial clock
 SDA: serial data
 
-
-
-
 ## 2 I2C
 Abbreviation for **Inter-integrated Circuit**
 

@@ -22,6 +22,7 @@ $$y_m=\frac{m\lambda L}{d}$$
 RGB (red green blue) is the model for light and CMYK (cyan magenta yellow key) is the model for pigment. 
 ![[primary_colors.webp | 600]]
 Notice that the combination of cyan, magenta, and yellow can form red, green, and blue. 
+
 ## 3 Formation of Light
 ### 3.1 Fluorescence
 The visible or invisible radiation that is emitted by certain substances that **have absorbed light or other electromagnetic radiation**. 

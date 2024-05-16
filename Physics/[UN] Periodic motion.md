@@ -1,11 +1,15 @@
-Period for pendulum system: $T=2\pi\sqrt{\frac{l}{g}}$
-Period for spring system: $T=2\pi\sqrt{\frac{m}{k}}$
-Period for drilled log: $T=2\pi\sqrt{\frac{I}{mgr}}$
+## 1 Simple Harmonic Motion
 
-## 1 Spring
+The maximum velocity: $$v = \omega \cdot A$$, where $A$ is the amplitude. 
+
+## 2 Spring
 Angular frequency: $$\omega = \sqrt{\frac{k}{m}}$$
 $$a = -\omega^2\cdot x$$
 
-## 2 Simple Harmonic Motion
+Period: $$T = 2\pi\sqrt{\frac{m}{k}}$$
 
-The maximum velocity: $$v = \omega \cdot A$$, where $A$ is the amplitude. 
+## 3 Pendulum
+Period: $$T = 2\pi\sqrt{\frac{l}{g}}$$
+
+## 4 Drilled Log
+Period: $$T = 2\pi\sqrt{\frac{I}{mgr}}$$
