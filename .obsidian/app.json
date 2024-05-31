@@ -15,5 +15,7 @@
   },
   "attachmentFolderPath": "./attachments",
   "showInlineTitle": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "relative",
+  "spellcheck": false
 }

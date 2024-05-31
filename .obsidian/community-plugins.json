@@ -8,5 +8,6 @@
   "vim-im-select",
   "obsidian-relative-line-numbers",
   "obsidian-icon-folder",
-  "nldates-obsidian"
+  "nldates-obsidian",
+  "obsidian-languagetool-plugin"
 ]
