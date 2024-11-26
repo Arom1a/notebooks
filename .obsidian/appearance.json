@@ -1,6 +1,6 @@
 {
   "accentColor": "",
-  "cssTheme": "AnuPpuccin",
+  "cssTheme": "Minimal",
   "baseFontSizeAction": false,
   "baseFontSize": 22,
   "enabledCssSnippets": [
@@ -8,9 +8,9 @@
     "print",
     "test"
   ],
-  "textFontFamily": "Source Serif 4,Songti TC",
+  "textFontFamily": "Source Serif 4,IPAexMincho,Songti TC",
   "interfaceFontFamily": "Arial",
   "monospaceFontFamily": "Hack Nerd Font Mono",
-  "theme": "obsidian",
+  "theme": "system",
   "translucency": false
 }

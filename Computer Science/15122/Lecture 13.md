@@ -1,0 +1,3 @@
+Hash dict
+
+void* pointer

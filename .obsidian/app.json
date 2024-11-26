@@ -17,5 +17,6 @@
   "showInlineTitle": true,
   "alwaysUpdateLinks": true,
   "newLinkFormat": "relative",
-  "spellcheck": false
+  "spellcheck": false,
+  "defaultViewMode": "preview"
 }

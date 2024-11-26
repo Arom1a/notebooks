@@ -45,3 +45,16 @@ Man got to tell himself he understand.
 ## 10 May. 12th, 2024
 永远，你是我的，我也是你的。没有人抢得走你，也没有人抢得走我。
 > From Twitter
+
+## 11 Jul. 23th, 2024
+时光必然流逝，美好也必然沉积。能被阳光眷顾的我是何其幸运。未来未可知，但温暖的感觉不可辜负。
+> From moments
+
+## 12 Oct. 29th, 2024
+你知道为什么那么多古代兴盛的帝国和王朝都陨落了吗？
+因为沉迷于你这样的女色。
+> From Twitter
+
+## 13 Nov. 26th, 2024
+与其在困顿中走向灭亡，不如在刺痛中走向樊笼。
+> From 《妄想症Paranoia》

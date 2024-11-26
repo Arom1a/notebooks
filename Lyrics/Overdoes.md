@@ -1,8 +1,8 @@
 https://utaten.com/lyric/mi22082236/
 
 ## 1 Overdoes hiragana
-ほんとうはわかっていた
-本当は分かっていた
+ほんとうはわかっjていた
+本当は分かっていjた
 
 いけないことだったって
 いけないことだったって
@@ -15,10 +15,10 @@ https://utaten.com/lyric/mi22082236/
 
 ぜんぶがあいにみえたの
 全部が愛に見えたの
-
+j
 たしかめていたことばが
 確かめていた言葉か
-
+j
 かたちになってゆれるだけ
 形になって揺れるだけ
 
@@ -35,7 +35,5 @@ https://utaten.com/lyric/mi22082236/
 
 みつめ、あえたら
 
-overdoesきみとふたり　やるせない日々
-かいぞうどのわるいゆめをみたい
-overdoesきみとふたり　あまいハッタリ
+oっjverdoesきみとふたり　やるせない日々 かいぞうどのわるいゆめをみたい overdoesきみとふたり　あまいハッタリ
 Don't stop it music, darling

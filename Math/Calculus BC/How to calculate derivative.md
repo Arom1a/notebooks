@@ -29,4 +29,4 @@ $$(x^{n})'=nx^{n-1}$$
 **Chain rule**:
 $$(f\circ g)'=f'\circ g\times g'$$
 also
-$$(f\circ (g\circ g))'=f'\circ (g\circ h)\times (g'\circ h\times h')$$
+$$(f\circ (g\circ h))'=f'\circ (g\circ h)\times (g'\circ h\times h')$$

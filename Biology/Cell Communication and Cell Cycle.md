@@ -36,6 +36,13 @@ Receptor-mediated endocytosis
 
 ### 3.2 Passive Transportation
 Small and non-polar to pass phosphorus bilayer
+```markdown
+(Out is hydrophilic)
+O O O
+I I I(Inner is hydrophobic)
+I I I
+O O O
+```
 
 Simple diffusion
 Osmosis

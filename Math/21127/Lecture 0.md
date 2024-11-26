@@ -35,6 +35,3 @@ $\mathbb{Q}$ means rational numbers
 $\mathbb{R}$ means real numbers
 $\mathbb{R} \textbackslash \mathbb{Q}$ means irrational numbers
 $\mathbb{C}$ means complex numbers
-
-## 4 Number Bases
-The most widely used numeral system is the **Hindu-Arabic numeral system**, which contains ten symbols, called *digits*: $0 1 2 3 4 5 6 7 8 9$. It is a decimal (base-10) numeral system. There are other bases such as **binary** (base-2), **ternary** (base-3), **quaternary** (base-4), **octal** (base-8), **hexadecimal** (base-16). 

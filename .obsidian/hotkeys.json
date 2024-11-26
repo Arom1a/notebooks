@@ -23,6 +23,13 @@
         "Ctrl"
       ],
       "key": "Tab"
+    },
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "]"
     }
   ],
   "workspace:previous-tab": [
@@ -32,6 +39,13 @@
         "Shift"
       ],
       "key": "Tab"
+    },
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "["
     }
   ],
   "editor:toggle-italics": [
