@@ -28,3 +28,7 @@ To remember more:
 - Testing effect
 - Focus on semantics
 - Self-reference effect
+
+Encoding and storage of explicit memories is related the hippocampus
+Basal ganglia is involved in the formation of procedural memory
+Cerebellum is involved in the formation of conditioned responses

@@ -17,6 +17,12 @@ Neutral stimulus: a stimulus does not trigger a response
 
 Unconditioned stimulus: a stimulus trigger a response naturally
 
+Conditioned stimulus: a previously neutral stimulus that triggers a conditioned response
+
+Unconditioned response: the response triggered naturally
+
+Conditioned response: the response trained to be triggered
+
 ### 2.2 Classical Conditioning
 repeated exposure, we learn the sequence of events
 
