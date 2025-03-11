@@ -1,0 +1,3 @@
+Individualist cultures
+
+Collectivist cultures
