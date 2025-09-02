@@ -6,13 +6,13 @@ Instinct: not learned but built-in, complex behaviors
 
 ### 1.2 Arousal theory
 
+### 1.3 Drive-reduction theory
+
 Homeostasis: internal stability
 
 There are Inner **Drives** and Outer **Incentives**
 
 When both drive and incentive are present, we feel a strong motivation
-
-### 1.3 Drive-reduction theory
 
 ### 1.4 Hierarchy of needs theory
 

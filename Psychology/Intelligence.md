@@ -32,7 +32,9 @@ Problems:
 - no empirical support
 - traits tend to be able to predict each other (not separated)
 
-### 2.3 Sternberg
+### 2.3 Robert Sternberg
+
+triarchic theory of intelligence
 
 3 intelligences
 
@@ -42,10 +44,12 @@ Problems:
 
 ## 3 Emotional Intelligence
 
+Ability model - Mayer, Salovery, Caruso
+
 - Perceiving emotions
+- Using emotions
 - Understanding emotions
 - Managing emotions
-- Using emotions
 
 ## 4 Intelligence Tests
 

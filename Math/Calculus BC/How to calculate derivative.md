@@ -12,6 +12,7 @@ $(\csc^{-1}{x})'=-\frac{1}{x\sqrt{x^{2}-1}}$
 $(\tan^{-1}{x})'=\frac{1}{1+x^{2}}$
 $(\cot^{-1}{x})'=-\frac{1}{1+x^{2}}$
 
+$(e^x)' = e^x$
 $(a^{x})'=a^{x}\times \ln{a}$
 $(\ln{x})'=\frac{1}{x}$
 $(\log_{a}{x})'=\frac{1}{x\ln{a}}$

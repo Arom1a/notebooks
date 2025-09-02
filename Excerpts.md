@@ -58,3 +58,7 @@ Man got to tell himself he understand.
 ## 13 Nov. 26th, 2024
 与其在困顿中走向灭亡，不如在刺痛中走向樊笼。
 > From 《妄想症Paranoia》
+
+## 14 Mar. 1st, 2025
+水过三秋，有些话就像梦一样，说破了，只剩一地碎片，没意思了。
+> From 《1980年代的爱情》

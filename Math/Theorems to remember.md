@@ -8,7 +8,7 @@ $$x_1x_2+x_2x_3+x_3x_1=\frac{c}{a}$$
 $$x_1x_2x_3=-\frac{d}{a}$$
 
 ## 2 Stewart's Theorem
-![[Stewarts_theorem.svg]]
+![[Stewarts_theorem.svg | 500]]
 $$man + dad = bmb + cnc$$
 "A man and his dad put a bomb in the sink"
 

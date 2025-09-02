@@ -94,7 +94,7 @@ Let $n \in \mathbb{N}$ and $x, y \in \mathbb{R}$. Then $$(x + y)^n = \sum_{k = 0
 ## 26 Theorem (Strong induction principle)
 Let $p(n)$ be a logical formula with free variable $n \in \mathbb{N}$ and let $n_0 < n_1 \in \mathbb{N}$. If
 (i) $p(n_0), p(n_0 + 1), \dots, p(n_1)$ is true; and 
-(ii) For all $n \ge n_1$, if $p()$ is true for all $n_0 \le k \le n$, then $p(n + 1)$ is true;
+(ii) For all $n \ge n_1$, if $p(k)$ is true for all $n_0 \le k \le n$, then $p(n + 1)$ is true;
 then $p(n)$ is true for all $n \ge n_0$. 
 
 ## 27 Theorem (Well-ordering principle)
