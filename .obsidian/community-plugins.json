@@ -4,11 +4,11 @@
   "obsidian-minimal-settings",
   "number-headings-obsidian",
   "obsidian-style-settings",
-  "obsidian-zotero-desktop-connector",
   "vim-im-select",
   "obsidian-relative-line-numbers",
   "obsidian-icon-folder",
   "nldates-obsidian",
   "obsidian-languagetool-plugin",
-  "sheets"
+  "sheets",
+  "obsidian-latex-suite"
 ]

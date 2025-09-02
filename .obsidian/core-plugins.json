@@ -22,9 +22,12 @@
   "outline": true,
   "word-count": true,
   "slides": false,
-  "audio-recorder": false,
+  "audio-recorder": true,
   "workspaces": false,
   "file-recovery": true,
   "publish": true,
-  "sync": false
+  "bases": true,
+  "footnotes": false,
+  "sync": true,
+  "webviewer": false
 }

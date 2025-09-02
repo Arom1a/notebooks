@@ -6,7 +6,8 @@
   "enabledCssSnippets": [
     "media print",
     "print",
-    "test"
+    "test",
+    "main"
   ],
   "textFontFamily": "Source Serif 4,IPAexMincho,Songti SC",
   "interfaceFontFamily": "Arial",

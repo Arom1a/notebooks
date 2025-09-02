@@ -3,7 +3,7 @@
   "darkStyle": "minimal-dark",
   "lightScheme": "minimal-eink-light",
   "darkScheme": "minimal-rose-pine-dark",
-  "editorFont": "",
+  "editorFont": "Hack Nerd Font",
   "lineHeight": 1.5,
   "lineWidth": 60,
   "lineWidthWide": 70,
