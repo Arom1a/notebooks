@@ -64,3 +64,27 @@ Exp. 2: $1, 1 + x, 1 + x + x^{2}$ is a basis for polynomials over $\mathbb{R}$ o
 > and $b + c = 0 \implies b = 0$
 > 
 > and $a + b + c = 0 \implies a = 0$
+
+## 2 Coordinate Vectors
+
+Suppose $B = \{b_{1}, b_{2}, \dots, b_{n}\}$ is a basis for vector space $V$
+
+---
+
+> [!draft]+
+> 1. Fix $V$ as a vector space over $\mathbb{R}$ and $\varnothing \neq V$. 
+> $\exists \vec{v}_{1}, \dots, \vec{v}_{n}, \vec{w} \in V \text{ s.t. } \vec{w} \text{ can not be represented in exatly } 2 \text{ ways }$
+> > [!proof]+
+> > suppose there are 2 ways to represent $\vec{w}$, then there must be a third way to represent it. 
+> 
+> 2. Let $V$ be a vector space over $\mathbb{R}$, $\vec{v}_{1}, \vec{v}_{2}, \vec{v}_{3} \in V$ be independent. Suppose $B \subseteq \operatorname{span}{(\{\vec{v}_{1} + \vec{v}_{2}}, \vec{v}_{1} - \vec{v}_{3}, \vec{v}_{2} + \vec{v}_{3}\})$ is a basis of the span. What are the possible values of $|B|$. 
+> > [!proof]+
+> > Claim 1: $|B| \neq 1$
+> > > [!proof]+
+> > > Suppose $|\mathbb{B}| = 1$, so $\mathbb{B} = \{\vec{u}\}$. 
+> > > 
+> > > Prove that v1, v2, v3 are dependent, contradicting to the conditions given. 
+> > 
+> > Claim 2: $\mathbb{B} < 3$
+> > > [!proof]+
+> > > Suppose not
