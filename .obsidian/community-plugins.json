@@ -3,12 +3,12 @@
   "obsidian-citation-plugin",
   "obsidian-minimal-settings",
   "number-headings-obsidian",
-  "obsidian-style-settings",
   "vim-im-select",
   "obsidian-relative-line-numbers",
   "obsidian-icon-folder",
   "nldates-obsidian",
   "obsidian-languagetool-plugin",
   "sheets",
-  "obsidian-latex-suite"
+  "obsidian-latex-suite",
+  "obsidian-style-settings"
 ]

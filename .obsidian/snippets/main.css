@@ -6,14 +6,6 @@ img {
   background-color: white;
 }
 
-.cm-strong {
-  color: rgb(183, 104, 162);
-}
-
-strong {
-  color: rgb(183, 104, 162);
-}
-
 .callout[data-callout="draft"] {
   --callout-color: 100, 100, 100;
   --callout-icon: lucide-book-dashed;

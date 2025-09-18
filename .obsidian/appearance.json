@@ -2,12 +2,10 @@
   "accentColor": "",
   "cssTheme": "Minimal",
   "baseFontSizeAction": false,
-  "baseFontSize": 22,
+  "baseFontSize": 20,
   "enabledCssSnippets": [
-    "media print",
-    "print",
-    "test",
-    "main"
+    "main",
+    "print"
   ],
   "textFontFamily": "Source Serif 4,IPAexMincho,Songti SC",
   "interfaceFontFamily": "Arial",
