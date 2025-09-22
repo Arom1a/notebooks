@@ -10,5 +10,8 @@
   "obsidian-languagetool-plugin",
   "sheets",
   "obsidian-latex-suite",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "obsidian42-brat",
+  "typst-mate",
+  "inline-math"
 ]
