@@ -22,8 +22,6 @@ For $A \in \mathbb{F}^{m \times n}$ matrix and so $T_{A} = \mathbb{F}^{n} \to \m
 
 Moreover: All these imply $m \geq n$
 
-^1st
-
 ## 3 2nd Fundamental Theorem of Linear Algebra
 
 For $A \in \mathbb{F}^{m \times n}$ matrix and so $T_{A} = \mathbb{F}^{n} \to \mathbb{F}^{m}$
@@ -65,3 +63,7 @@ Theorem: if $T_{A}$ is bijective, $T_{A}$ has an inverse
 ## 5 Gaussian Elimination
 
 Find left most column with a non-zero entry 
+
+$$
+\begin{aligned} &x_3+x_4=b_1 \\ &x_1+x_2+x_3+x_4=b_2 \\ &x_1+x_3=b_3 \\ &x_1+x_3=b_4 \end{aligned}
+$$

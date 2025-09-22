@@ -7,7 +7,6 @@ For any matrix $A \in \mathbb{F}^{m \times n}$, there is an invertible $G \in \m
 
 $A \vec{x} = \vec{b}$ has $\geq 1$ solutions for all $\vec{b} \in \mathbb{F}^{n}$ $\iff$ $\operatorname{RREF}{(A)}$ has $m$ pivots
 
-
 ## 2 Fundamental Theorems of Linear Algebra
 
 Recall on [[Lecture 8]]
@@ -23,5 +22,13 @@ bijective $\iff$ $\operatorname{RREF}{(A)} = n = m$
 
 ## 3 Every basis have the same size
 
-Suppose $\vec{v}_{1}, \vec{v}_{2}, \dots, \vec{v}_{n}$ is a basis for $\mathbb{F}^m$, 
-by FTLA $\operatorname{Rank}{(A)} = n = m$
+
+Theorem: suppose $\vec{v}_{1}, \vec{v}_{2}, \dots, \vec{v}_{n}$ is a basis for $\mathbb{F}^m$, then $k = m$
+> [!proof]+
+> Apply FTLA3 to the $\begin{bmatrix}\vec{v}_{1} & \vec{v}_{2} & \dots & \vec{v}_{n}\end{bmatrix}$
+
+---
+
+Column vectors corresponding to pivot columns in RREF are independent. 
+
+$\operatorname{Rank}{(AB)} \leq \operatorname{Rank}{(A)}$
