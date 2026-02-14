@@ -1,12 +1,13 @@
 {
   "enableBackgroundRendering": true,
   "autoBaseColor": true,
-  "failOnWarning": false,
   "baseColor": "#000000",
   "enableMathjaxFallback": false,
   "skipPreparationWaiting": false,
-  "enableInlinePreview": false,
+  "enableInlinePreview": true,
   "disablePackageCache": false,
+  "enableShortcutKeys": true,
+  "openTypstToolsOnStartup": true,
   "preamble": "#set page(margin: 0pt, width: auto, height: auto)\n#show raw: set text(size: 1.25em)\n#set text(size: fontsize)",
   "processor": {
     "inline": {
@@ -136,5 +137,10 @@
       "script": true
     }
   ],
-  "complementSymbolWithUnicode": true
+  "complementSymbolWithUnicode": false,
+  "revertTabToDefault": false,
+  "patchPDFExport": false,
+  "disableMacro": false,
+  "crashCount": 0,
+  "failOnWarning": false
 }

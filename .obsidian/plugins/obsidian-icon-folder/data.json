@@ -5,7 +5,11 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "LiALargeSmall",
+      "LiAArrowUp",
+      "LiAlignStartVertical"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
